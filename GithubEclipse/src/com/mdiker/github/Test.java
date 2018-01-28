@@ -3,7 +3,8 @@ package com.mdiker.github;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		MainClass mainClass = new MainClass();
+		mainClass.SayHello("Mustafa");
 
 	}
 
